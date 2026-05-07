@@ -23,8 +23,13 @@
   },
   "name":"O CONCURSO",
   "resources":[
+    {"id":{"name":"Obj_Manager","path":"objects/Obj_Manager/Obj_Manager.yy",},},
+    {"id":{"name":"OBj_PLayer","path":"objects/OBj_PLayer/OBj_PLayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Roommenu","path":"rooms/Roommenu/Roommenu.yy",},},
+    {"id":{"name":"Spr_Fundo","path":"sprites/Spr_Fundo/Spr_Fundo.yy",},},
+    {"id":{"name":"Spr_Menu_Inicial","path":"sprites/Spr_Menu_Inicial/Spr_Menu_Inicial.yy",},},
+    {"id":{"name":"Spr_Player","path":"sprites/Spr_Player/Spr_Player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
